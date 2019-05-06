@@ -55,7 +55,7 @@
 - **Human decisions and machine predictions.** 
    - Kleinberg, J., Lakkaraju, H., Leskovec, J., Ludwig, J. & Mullainathan, S., Q. J. Econ. 133, 237–293 (2018). [[Paper](https://cs.stanford.edu/people/jure/pubs/bail-qje17.pdf)]
 - **Measuring young children’s long-term relationships with social robots.** 
-   - Westlund, J. M. K., Park, H. W., Williams, R. & Breazeal, C. In Proc. 17th ACM Conference on Interaction Design and Children 207–218 (ACM, 2018). [[Paper](http://delivery.acm.org/10.1145/3210000/3202732/p207-kory_westlund.pdf?ip=155.69.53.30&id=3202732&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E9F431EFF0E24CC1F&__acm__=1556859943_284f6155d4db55ea21db846d73f85658)]
+   - Westlund, J. M. K., Park, H. W., Williams, R. & Breazeal, C. In Proc. 17th ACM Conference on Interaction Design and Children 207–218 (ACM, 2018). [[Paper](https://dam-prod.media.mit.edu/x/2018/04/25/KoryWestlund-IDC18_grxKCvX.pdf)]
 - **Living, Learning and Creating with Social Robots** 
    - [[Slides](https://www.microsoft.com/en-us/research/uploads/prod/2018/05/41292.compressed.pdf)]
 - **Cooperating with machines.** 
